@@ -1,6 +1,7 @@
 # EpicWeAlmost360Ai
 
-> **A stupid answer to a stupid solution.**
+**Because every stupid solution deserves a stupid answer**
+
 
 EpicWeAlmost360Ai is a small PowerShell automation script that periodically moves the mouse and can send random arrow-key input to a selected application during configured working hours. It also uses the Windows API to prevent the system and display from entering idle sleep states.
 
